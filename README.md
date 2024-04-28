@@ -9,7 +9,7 @@ I have been working for BBC World Service News since then helping to deliver New
 
 I'll soon be studying for an L7 Apprenticeship in Data Science, ML & AI 🤖 🧠.
 
-I love heavy music.
+I love heavy music 🤘🏼 🎧.
 
 ![Pedram's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvaliani&show_icons=true&theme=synthwave)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvaliani&show_icons=true&theme=synthwave&locale=en&layout=compact&alt="pvaliani" /></p>
