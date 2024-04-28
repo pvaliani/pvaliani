@@ -1,11 +1,13 @@
 <h1 align="center">Hello, welcome, I'm Pedram 👋</h1> 
 <h3 align="center"> Software Developer in BBC World Service News & Musician in Frontierer 🎶🎸 </h3>
 
-I have an Electrical Engineering and Investments background. I began my journey into Software whilst at University but it only really kicked off after completing a phenomenal bootcamp called CodeClan.
+I have an Electrical Engineering and Investments background ⚡️ 💰. 
 
-I have been working for BBC World Service News since then helping to deliver News globally to hundreds of millions of users.
+I began my journey into Software whilst at University but it only really kicked off after completing a phenomenal bootcamp called CodeClan 🎓.
 
-I'll soon be studying for an L7 Apprenticeship in Data Science, ML & AI.
+I have been working for BBC World Service News since then helping to deliver News globally to hundreds of millions of users 🤯.
+
+I'll soon be studying for an L7 Apprenticeship in Data Science, ML & AI 🤖 🧠.
 
 I love heavy music.
 
