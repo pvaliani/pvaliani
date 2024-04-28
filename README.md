@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![Pedram's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvaliani&show_icons=true&theme=radical)
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvaliani&show_icons=true&locale=en&layout=compact" alt="pvaliani" /></p>
+<p>![Pedram's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvaliani&show_icons=true&theme=synthwave)</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvaliani&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="pvaliani" /></p>
 <!--
 **pvaliani/pvaliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
