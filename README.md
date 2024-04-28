@@ -1,5 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hello I'm Pedram 👋</h1> 
+<h3 align="center"> Software Developer in BBC World Service News & Musician in Frontierer 🎶🎸 </h3>
 
+I have an Electrical Engineering background, switched careers after completing a phenomenal bootcamp called CodeClan have been working for BBC World Service News since.
+
+I'll soon be studying for an L7 Apprenticeship in Data Science, ML & AI.
+
+I love heavy music.
 
 ![Pedram's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvaliani&show_icons=true&theme=synthwave)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvaliani&show_icons=true&theme=synthwave&locale=en&layout=compact&alt="pvaliani" /></p>
