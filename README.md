@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Pedram 👋</h1> 
+<h1 align="center">Hello, welcome, I'm Pedram 👋</h1> 
 <h3 align="center"> Software Developer in BBC World Service News & Musician in Frontierer 🎶🎸 </h3>
 
 I have an Electrical Engineering and Investments background. I began my journey into Software whilst at University but it only really kicked off after completing a phenomenal bootcamp called CodeClan.
