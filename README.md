@@ -7,8 +7,6 @@ I began my journey into Software whilst at University but it only really kicked 
 
 I have been working for BBC World Service News since then helping to deliver News globally to hundreds of millions of users 🤯.
 
-I'm undertaking a L7 Apprenticeship in Data Science, ML & AI 🤖 🧠.
-
 I love heavy music 🤘🏼 🎧.
 
 ![Pedram's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvaliani&show_icons=true&theme=synthwave)
